@@ -1,0 +1,30 @@
+
+Servicio Contratado: Gratis DehostingCL 
+IP del Servidor: 62.138.24.134 
+Usuario: rllanost 
+Password: 2SB8Anha-Os26;
+
+Para ingresa antes de hacer su cambio de DNS puede hacerlo desde aca:
+Cpanel: http://62.138.24.134/cpanel 
+Host para FTP: 62.138.24.134
+
+Una vez que rllanostienda2111.cl ya apunta a nuestros servidores puede utilizar estos accesos:
+Cpanel: http://rllanostienda2111.cl/cpanel
+Host para FTP:ftp.rllanostienda2111.cl 
+Webmail: http://rllanostienda2111.cl/webmail 
+
+INFORMACION DE SU CUENTA DE CORREOS
+POP3 (servidor de correos entrante) : mail.rllanostienda2111.cl 
+SMTP (servidor de correos saliente): mail.rllanostienda2111.cl 
+Username: (ej: info@ rllanostienda2111.cl) 
+Password: EL PASSWORD QUE USTED ASIGNO A LA CUENTA CUANDO LA CREO
+
+INFORMACION DE SUS DNS
+DNS PRIMARIO 
+DNS1.DEHOSTING.NET
+DNS SECUNDARIOS:
+DNS2.DEHOSTING.NET
+
+Base de datos: rllanost_tienda
+Usuario: rllanost_rllanos
+hostname: loft12500.serverprofi24.com
